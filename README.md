@@ -1,6 +1,6 @@
 # Kinematic
-First take in applying forward &amp; inverse kinematics using python 
-Various concept where applied as it was a step by step learning process
+First take in applying forward &amp; inverse kinematics using python. 
+Various concept where applied as it was a step by step learning process. 
 Familiarization with DH-parameters and homogeneous transform matrix will ease your understanding  
 
 Imports used are:
